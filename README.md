@@ -28,7 +28,7 @@
 
 知识主题的范例如下：
 
-![范例](http://77fm42.com1.z0.glb.clouddn.com/hwmakt-example.gif)
+![范例](http://77fm42.com1.z0.glb.clouddn.com/WechatIMG11.jpeg)
 
 好了，那接下来，我们用三十分钟的时间来完成这个挑战吧！挑战之后你奖获得这个基础技能，并且，它将为你打开一片不一样的天地！
 
