@@ -1,31 +1,6 @@
 # 本书目录
 
-- [一、新建文档](01_newPepo.md)
-- [一、前言](01_preface.md)
-
-- [二、PKOS系统构建方法](2_system_principle/README.md)
-    - [看看他们怎么说](2_system_principle/benifit.md)
-    - [什么是PKOS](2_system_principle/definition.md) 
-    - [如何打开黑盒子](2_system_principle/explore_system.md)
-    - [系统构建策略](2_system_principle/strategy_of_system_buildup.md)
-    - [本章小结](2_system_principle/section_summary.md)
-- [三、系统构建的软硬件选型](3_buildup_demand/README.md)
-    - [根据功能提要求](3_buildup_demand/demand.md)
-    - [硬件选型方案](3_buildup_demand/hardware.md)
-    - [软件选型方案](3_buildup_demand/software.md)
-    - [本章小结](3_buildup_demand/pkos_workflow.md)
-- 四、素材层级系统构建
-    - 系统搭建方法
-    - 卡片管理方案
-- 五、文章层级系统构建
-	- 写作系统搭建
-	- 文章管理方案
-	- 版本控制方案
-	- 发布及展示
-- 六、图书层级系统构建
-	- 图书层级的范围
-	- 写作系统搭建
-	- 多人协同方案
-	- 版本控制及发布
-- 七、示范案例
-- 八、更多资源
+- [01. 新建文档](01_newRepo.md)
+- [02. 新建本地Repo](02_cloneRepo.md)
+- [03. 配置编辑器](03_configEditor.md)
+- [04. 新建标配文件](04_newFiles.md)
