@@ -7,7 +7,7 @@
     - 主题：如何使用Git系列建立自己的知识专题
     - 名称：HTMUAKTBG
     - 具体描述：如何使用Github和芝士构建个人知识专题（how to make up a knowledge theme by gitx）
- 3. 为本仓库增加一个初始化的README文件，并为其增加忽略选项，默认为gitbook的忽略文件。
+3. 为本仓库增加一个初始化的README文件，并为其增加忽略选项，默认为gitbook的忽略文件。
 
 至此，一个承载自己知识的仓库就已经在远程端完成了。
 
